@@ -11,6 +11,8 @@ color:
     - '#CE8C00'
     - '#F9F100'
 layout_spectrum: 0.6674583335407078
+analytics:
+  google: UA-76502989-1
 author:
   name: Chris Gadek
   email: chris@forgrowthmarketers.com
