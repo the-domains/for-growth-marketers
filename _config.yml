@@ -20,5 +20,8 @@ navigation:
   - name: About
     url: 'http://forgrowthmarketers.com/about'
     type: external
+  - name: Blog
+    url: 'http://forgrowthmarketers.com/blog/'
+    type: external
 title: Read content. Actually learn something.
 description: ''
