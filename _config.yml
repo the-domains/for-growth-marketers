@@ -16,5 +16,9 @@ author:
   email: chris@forgrowthmarketers.com
   url: 'https://www.linkedin.com/christophergadek'
 name: For Growth Marketers
+navigation:
+  - name: About
+    url: 'http://forgrowthmarketers.com/about'
+    type: external
 title: Read content. Actually learn something.
 description: ''
