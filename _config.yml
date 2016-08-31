@@ -1,3 +1,4 @@
+layout_spectrum: 0.6674583335407078
 typography_spectrum: 0.15955955022946
 color:
   brandStrength: 0.7961864727549255
@@ -5,28 +6,9 @@ color:
   saturation: 0.959523071302101
   rhythmicContrast: 0.1296669109724462
   brandColors:
-    - '#9FA0A2'
-    - '#2E3E4E'
-    - '#000000'
-    - '#CE8C00'
-    - '#F9F100'
-layout_spectrum: 0.6674583335407078
-analytics:
-  google: UA-76502989-1
-author:
-  name: Chris Gadek
-  email: chris@forgrowthmarketers.com
-  url: 'https://www.linkedin.com/christophergadek'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: For Growth Marketers
-navigation:
-  - name: About
-    url: 'http://forgrowthmarketers.com/about'
-    type: external
-  - name: Blog
-    url: 'http://forgrowthmarketers.com/blog/'
-    type: external
-  - name: Contact
-    url: 'http://forgrowthmarketers.com/contact'
-    type: external
-title: Read content. Actually learn something.
-description: ''
